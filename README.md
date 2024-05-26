@@ -1,9 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # whermhole
+
+A hub for both donors and charities, whermhole provides a trackable and immutable record of all donations. As a donor, whermhole is a personalized web app that can display every charity and organization you have donated to. You will be able to track where donations have been spent through a QR code and dynamically displayed chart, view progress on charity goals, see statistics on donations and long-term trends, as well as view other top donors for a given charity. As a charity or organization, whermhole is a platform to log and make transactions with donor funds to guarantee transparency and enforce responsibility. As a charitable organization, integrity is absolutely key in maintaining a healthy donor base and creating genuine positive impacts in the world. Whermhole helps provide a platform to display that integrity and keep every organization accountable. Overall, whermhole is a platform for both charities and donors to promote greater transparency and efficacy to create real positive change in the world.
